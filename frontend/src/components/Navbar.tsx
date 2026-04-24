@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 // 1. On importe le "cerveau" de la connexion
 import { useAuth } from '../context/AuthContext';
